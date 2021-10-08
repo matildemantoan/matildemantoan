@@ -1,8 +1,6 @@
 👋 Hi, I’m @matildemantoan!
 
-I’m a junior Web Application Developer and i'm really addicted to this world 😍.
-
-🌱 I’m currently learning some of the most popular frameworks of the magic ✨ front-end world ✨.
+I’m a junior Web Application Developer and i'm really addicted to the magic ✨ Front-End world ✨.
 
 This is my GitHub profile where you can find all of my own projects🤠.
 
