@@ -2,7 +2,7 @@
 
 I’m a Web Application Developer and i'm really addicted to the magic ✨ Front-End world ✨.
 
-This is my GitHub profile where you can find all of my own projects🤠.
+This is my GitHub profile where you can find all of my projects.
 
 📫 How to reach me 👇:
 - Instagram: matildemantoan 
